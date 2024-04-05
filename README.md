@@ -1,1 +1,1 @@
-# Sympols-Iterators
+# Symbols-Iterators
